@@ -13,8 +13,10 @@
            Dataoxy
         </author>
     
-    	<plugin name="org.apache.cordova.console" spec="2.0"/>
-    	<plugin name="org.apache.cordova.device" spec="^1.1.0" />
+    	<plugin name="org.apache.cordova.console" spec="0.2.11"/>
+    	<plugin name="cordova-plugin-device" spec="^1.1.0" />
+<plugin name="cordova-plugin-device" spec="https://github.com/apache/cordova-plugin-device.git#1.0.0" />
+
     	
     	
 		 <plugin name="org.apache.cordova.inappbrowser"   />
