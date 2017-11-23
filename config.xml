@@ -12,7 +12,7 @@
         href="http://cordova.io">
            Dataoxy
         </author>
-    
+     
     	<plugin name="org.apache.cordova.console" spec="0.2.11"/>
     	<plugin name="cordova-plugin-device" spec="^1.1.0" />
 <plugin name="cordova-plugin-device" spec="https://github.com/apache/cordova-plugin-device.git#1.0.0" />
