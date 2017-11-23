@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
     <widget xmlns:gap="http://phonegap.com/ns/1.0" 
     xmlns="http://www.w3.org/ns/widgets" 
-    id="com.Dataoxys.com" 
+    id="com.Dataoxy.com" 
     version="2.0.1">
 
         <name>Dataoxy</name>
@@ -78,7 +78,6 @@
 		
     
 	         <preference name="phonegap-version" value="cli-6.5.0" /> 
-			 <preference name='pgb-builder-version' value='2' />
 			  <preference name="SplashScreen" value="splash" />
 		
               <preference name="SplashScreenDelay" value="5000" />
