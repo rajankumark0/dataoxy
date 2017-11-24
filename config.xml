@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
  
-  <widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" id="com.Dataoxy.com" version="2.0.1" android-versionCode="13" >
+  <widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" id="com.Dataoxy.com" version="2.0.1" android-versionCode="7" >
 
         <name>Dataoxy</name>
         <description>
@@ -11,7 +11,7 @@
            Dataoxy
         </author>
     
-	
+	<platform name="android"/>
 	<plugin name="cordova-plugin-console" spec="~1.1.0" />
 	<plugin name="cordova-plugin-device" spec="~1.1.7" />
 	<plugin name="cordova-plugin-inappbrowser" spec="~1.7.2" />
