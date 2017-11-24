@@ -46,7 +46,7 @@
 		
 		rr-->
 		
-  		<gap:plugin name="nl.x-services.plugins.googleplus" source="plugins.cordova.io"/> 
+  		<gap:plugin name="nl.x-services.plugins.googleplus" source="plugins.cordova.ionic"/> 
     	<!--Icons and Splash Screens Configuration for Mofluid Apps-->
 		
 		<!-- ===================== -->
