@@ -96,8 +96,7 @@
 			
 				<preference name="OverrideUserAgent" value="Mozilla/5.0 Google" />
 			
-   <!--  <plugin name="cordova-plugin-whitelist" version="1"/>-->
-        
+    <plugin name="cordova-plugin-whitelist" version="1"/>
 
  <content src="index.html" />
     	<access origin="*" />
