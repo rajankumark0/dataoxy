@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-    <widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" id="com.Dataoxy.com" version="0.0.1" android-versionCode="13" >
+    <widget xmlns:gap="http://phonegap.com/ns/1.0" 
+    xmlns="http://www.w3.org/ns/widgets" 
+    id="com.Dataoxy.com" 
+    version="2.0.1">
 
         <name>Dataoxy</name>
         <description>
@@ -7,9 +10,10 @@
         </description>
         <author email="rajan@w3design.in"
         href="http://cordova.io">
-           Dataoxy Team
+           Dataoxy  team
         </author>
     
+    	
 		<plugin name="cordova-plugin-console" spec="~1.1.0" />
     	
     	
