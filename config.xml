@@ -7,25 +7,32 @@
         </description>
         <author email="rajan@w3design.in"
         href="http://cordova.io">
-           Dataoxy
+           Dataoxy Team
         </author>
     
-    	<plugin name="org.apache.cordova.console" spec="0.2.11"/>
-    	<plugin name="org.apache.cordova.device" spec="0.2.3" />
+		<plugin name="cordova-plugin-console" spec="~1.1.0" />
     	
     	
-		 <plugin name="org.apache.cordova.inappbrowser"   />
+    	<plugin name="cordova-plugin-device" spec="~2.0.1" />
+		
+		 
+		 <plugin name="cordova-plugin-inappbrowser" spec="~2.0.1" />
 		
     	<plugin name="cordova-plugin-splashscreen"   />
     	<plugin name="cordova-plugin-contacts" spec="~2.3.0" />
         
+		
 		 <plugin name="com.telerik.plugins.nativepagetransitions" source="npm" />
 		
-		 <plugin name="org.apache.cordova.file" spec="1.3.1"  />
+		<!-- <plugin name="cordova-plugin-file-transfer" spec="~1.7.0" />
+		
+		 
+		<plugin name="cordova-plugin-file" spec="~6.0.1" />-->
+		 
 		 <plugin name="cordova-plugin-network-information" spec="~1.3.2" />
 		 <plugin name="cordova-plugin-dialogs" spec="~1.3.2" />
 		 
-		<plugin name="org.apache.cordova.contacts" spec="~1.3.2" />
+		
 		
 		<plugin name="cordova-plugin-sms" source="npm" />
 		
