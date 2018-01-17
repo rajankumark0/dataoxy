@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
     <widget xmlns:gap="http://phonegap.com/ns/1.0" 
     xmlns="http://www.w3.org/ns/widgets" 
-    id="com.textlab.com" 
+    id="com.Dataoxy.com" 
     version="2.0.1">
 
-        <name>TextLab</name>
+        <name>Dataoxy</name>
         <description>
            Bulk sms
         </description>
         <author email="rajan@w3design.in"
         href="http://cordova.io">
-           TextLab  team
+           Dataoxy  team
         </author>
     
     	
